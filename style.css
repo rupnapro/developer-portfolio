@@ -18,15 +18,16 @@ img {
 
 section {
     display: flex;
+    margin-bottom: 150px;
 }
 
 .hafl-width {
     width: 50%;
-    padding-left: 12%;
+    padding-left: 2%;
 }
 
 .hafl-width img {
-    width: 120%;
+    width: 80%;
 }
 
 .link-button {
@@ -43,3 +44,5 @@ section {
     background-repeat: no-repeat;
 
 }
+
+!
